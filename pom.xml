@@ -1,7 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<project xmlns="http://maven.apache.org/POM/4.0.0"
-    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
   <modelVersion>4.0.0</modelVersion>
   <parent>
     <groupId>org.xwiki.commons</groupId>
@@ -10,7 +8,7 @@
   </parent>
   <groupId>org.xwiki.contrib</groupId>
   <artifactId>api-wiki-customproperties</artifactId>
-  <version>1.0-SNAPSHOT</version>
+  <version>1.0</version>
   <name>Wiki Custom Properties API</name>
   <packaging>jar</packaging>
   <description>Provides a scripting API to access and manage generic custom properties in the wiki descriptor</description>
@@ -23,7 +21,7 @@
     <connection>scm:git:git://github.com/xwiki-contrib/api-wiki-customproperties.git</connection>
     <developerConnection>scm:git:git@github.com:xwiki-contrib/api-wiki-customproperties.git</developerConnection>
     <url>https://github.com/xwiki-contrib/api-wiki-customproperties</url>
-    <tag>HEAD</tag>
+    <tag>api-wiki-customproperties-1.0</tag>
   </scm>
   <issueManagement />
   <developers>
