@@ -1,0 +1,4 @@
+org.xwiki.wikicustomproperties.internal.DefaultWikiCustomPropertiesManager
+org.xwiki.wikicustomproperties.internal.ExtendedServerClassDocumentInitializer
+org.xwiki.wikicustomproperties.internal.ExtendedWikiPropertyGroupProvider
+org.xwiki.wikicustomproperties.script.WikiCustomPropertiesManagerScriptService
