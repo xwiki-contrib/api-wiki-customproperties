@@ -8,7 +8,7 @@
   </parent>
   <groupId>org.xwiki.contrib</groupId>
   <artifactId>api-wiki-customproperties</artifactId>
-  <version>1.0</version>
+  <version>1.1-SNAPSHOT</version>
   <name>Wiki Custom Properties API</name>
   <packaging>jar</packaging>
   <description>Provides a scripting API to access and manage generic custom properties in the wiki descriptor</description>
@@ -21,7 +21,7 @@
     <connection>scm:git:git://github.com/xwiki-contrib/api-wiki-customproperties.git</connection>
     <developerConnection>scm:git:git@github.com:xwiki-contrib/api-wiki-customproperties.git</developerConnection>
     <url>https://github.com/xwiki-contrib/api-wiki-customproperties</url>
-    <tag>api-wiki-customproperties-1.0</tag>
+    <tag>HEAD</tag>
   </scm>
   <issueManagement />
   <developers>
